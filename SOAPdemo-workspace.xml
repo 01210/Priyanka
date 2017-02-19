@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="Projects" soapui-version="6.0.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="Getting Started">C:/Users/srujith/Documents/Getting-Started-soapui-project.xml</con:project>
+  <con:project name="Calculator">C:/Users/srujith/Documents/Calculator-soapui-project.xml</con:project>
+  <con:collectInfoForSupport>false</con:collectInfoForSupport>
+  <con:recentItemCollection>
+    <con:moduleId>StarterPageModule</con:moduleId>
+    <con:itemId>edfee87f-2c27-4bb9-b4b9-306296769225</con:itemId>
+    <con:itemId>74eaec48-5f6f-4144-a48e-bd11a0fb1d2c</con:itemId>
+  </con:recentItemCollection>
+</con:soapui-workspace>
